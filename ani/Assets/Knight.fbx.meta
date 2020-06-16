@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: f00c2e1c26e8bfa4baf03f6620d604c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RL_Cavity
+    100004: RL_DownTeeth
+    100006: RL_Face
+    100008: RL_HairMesh
+    100010: RL_Hands
+    100012: RL_L_Eye
+    100014: RL_Lower
+    100016: RL_R_Eye
+    100018: RL_Shoes
+    100020: RL_Tongue
+    100022: RL_Upper
+    100024: RL_UpperTeeth
+    400000: //RootNode
+    400002: RL_Cavity
+    400004: RL_DownTeeth
+    400006: RL_Face
+    400008: RL_HairMesh
+    400010: RL_Hands
+    400012: RL_L_Eye
+    400014: RL_Lower
+    400016: RL_R_Eye
+    400018: RL_Shoes
+    400020: RL_Tongue
+    400022: RL_Upper
+    400024: RL_UpperTeeth
+    2100000: RL_Cavity
+    2100002: RL_DownTeeth
+    2100004: RL_Skin
+    2100006: RL_Hair
+    2100008: RL_Hands
+    2100010: RL_Iris_00
+    2100012: RL_Lower
+    2100014: RL_Skin_01
+    2100016: RL_Iris
+    2100018: RL_Shoes
+    2100020: RL_Tongue
+    2100022: RL_Upper
+    2100024: RL_Skin_00
+    2100026: RL_UpperTeeth
+    2300000: RL_Cavity
+    2300002: RL_DownTeeth
+    2300004: RL_Face
+    2300006: RL_HairMesh
+    2300008: RL_Hands
+    2300010: RL_L_Eye
+    2300012: RL_Lower
+    2300014: RL_R_Eye
+    2300016: RL_Shoes
+    2300018: RL_Tongue
+    2300020: RL_Upper
+    2300022: RL_UpperTeeth
+    3300000: RL_Cavity
+    3300002: RL_DownTeeth
+    3300004: RL_Face
+    3300006: RL_HairMesh
+    3300008: RL_Hands
+    3300010: RL_L_Eye
+    3300012: RL_Lower
+    3300014: RL_R_Eye
+    3300016: RL_Shoes
+    3300018: RL_Tongue
+    3300020: RL_Upper
+    3300022: RL_UpperTeeth
+    4300000: RL_Cavity
+    4300002: RL_DownTeeth
+    4300004: RL_Face
+    4300006: RL_HairMesh
+    4300008: RL_Hands
+    4300010: RL_L_Eye
+    4300012: RL_Lower
+    4300014: RL_R_Eye
+    4300016: RL_Shoes
+    4300018: RL_Tongue
+    4300020: RL_Upper
+    4300022: RL_UpperTeeth
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Cavity
+    second: {fileID: 2100000, guid: 00b7670927fa1fb4a95b35e1f0aab9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_DownTeeth
+    second: {fileID: 2100000, guid: 551339637380e2a4f93f8bd48596b163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Hair
+    second: {fileID: 2100000, guid: 6310a3b37e3c9f645b4e2c4f36a036a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Hands
+    second: {fileID: 2100000, guid: 1429320a47c404741b88f0278238e2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Iris
+    second: {fileID: 2100000, guid: 3555c131a0cd943479d71f1df8cf4da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Iris_00
+    second: {fileID: 2100000, guid: 3555c131a0cd943479d71f1df8cf4da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Lower
+    second: {fileID: 2100000, guid: a10f4f1012641b349860ab249ae4928f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Shoes
+    second: {fileID: 2100000, guid: 17758faa3f1b7a141bc978814e4797ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Skin
+    second: {fileID: 2100000, guid: 763511d109cdbe7459450eb872e44602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Skin_00
+    second: {fileID: 2100000, guid: 763511d109cdbe7459450eb872e44602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Skin_01
+    second: {fileID: 2100000, guid: 763511d109cdbe7459450eb872e44602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Tongue
+    second: {fileID: 2100000, guid: 689ffaff1e71e4b4fa82020205aa5d7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Upper
+    second: {fileID: 2100000, guid: 64f6dd67a26f6e44bbea8849b4fab75e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_UpperTeeth
+    second: {fileID: 2100000, guid: 551339637380e2a4f93f8bd48596b163, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Knight(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Cavity
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_DownTeeth
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Face
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_HairMesh
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Hands
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_L_Eye
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Lower
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_R_Eye
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Shoes
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Tongue
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_Upper
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RL_UpperTeeth
+      parentName: Knight(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
